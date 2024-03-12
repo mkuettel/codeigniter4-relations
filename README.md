@@ -21,7 +21,7 @@ Entity relationships for CodeIgniter 4
 Install easily via Composer to take advantage of CodeIgniter 4's autoloading capabilities
 and always be up-to-date:
 ```shell
-    > composer require tatter/relations
+    > composer require mkuettel/codeigniter4-relations
 ```
 
 Or, install manually by downloading the source files and adding the directory to

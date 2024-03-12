@@ -1,5 +1,5 @@
 {
-    "name": "tatter/relations",
+    "name": "mkuettel/codeigniter4-relations",
     "description": "Entity relationships for CodeIgniter 4",
     "license": "MIT",
     "type": "library",
@@ -18,12 +18,17 @@
             "email": "mgatner@tattersoftware.com",
             "homepage": "https://tattersoftware.com",
             "role": "Developer"
+        },
+        {
+            "name": "Moritz Küttel",
+            "email": "moritz_kuettel+composer_ci4schemas@tattersoftware.com",
+            "role": "Developer"
         }
     ],
     "homepage": "https://github.com/tattersoftware/codeigniter4-relations",
     "require": {
         "php": "^7.4 || ^8.0",
-        "tatter/schemas": "^2.0"
+        "mkuettel/codeigniter4-schemas": "dev-develop"
     },
     "require-dev": {
         "codeigniter4/framework": "^4.1",
